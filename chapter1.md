@@ -127,5 +127,5 @@ sigmoid函数被广泛当作激活函数还有另一原因，她含有幂函数�
 
 ![](https://ooo.0o0.ooo/2015/11/10/56419413aa6d7.png)
 
-注意：由于历史原因，多层的神经网络有时也被称作多层感知机(multilayer perceptrons)/MLP，即使这个神经网络是由sigmoid神经元组成的！
+*注意*：由于历史原因，多层的神经网络有时也被称作多层感知机(multilayer perceptrons)/MLP，即使这个神经网络是由sigmoid神经元组成的！
 
