@@ -88,6 +88,8 @@
 
 ![](https://ooo.0o0.ooo/2015/11/09/564167847f36f.png)
 
+(注意，$$\sigma 也被称作逻辑斯蒂(logistic)函数，所以有很多资料也把这里的sigmoid神经元称作逻辑斯蒂神经元$$)
+
 因此，sigmoid神经元的输出值：
 
 ![](https://ooo.0o0.ooo/2015/11/09/564167bfce2a0.png)
