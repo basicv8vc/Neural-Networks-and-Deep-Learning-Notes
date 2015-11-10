@@ -3,6 +3,8 @@ What this book is about
 
 英文原版地址 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
+为了更好的阅读体验，请点击以下链接阅读： https://ljalphabeta.gitbooks.io/neural-networks-and-deep-learning-notes/content/
+
 本书的目的是让读者*掌握神经网络的核心概念*，包括时下流行的深度学习技术。只要认真把本书的代码撸一边，打下基础没问题。
 
 
