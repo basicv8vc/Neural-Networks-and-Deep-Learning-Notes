@@ -94,4 +94,7 @@
 
 ![](https://ooo.0o0.ooo/2015/11/09/564167bfce2a0.png)
 
-第一眼看上去，感觉sigmoid神经元和感知机差别好大。实际上，她俩非常相似，不妨假设$$z\equiv w\cdot x+b$$是一个非常大的正数，则可以得到$$e^{-z}\approx 0 \Rightarrow \sigma (z)\approx 1$$。反之，假设$$z\equiv w\cdot x+b$$是一个非常小的负数，则可以得到$$e^{-z}\to +\infty, \sigma (z)\approx 0$$。
+第一眼看上去，感觉sigmoid神经元和感知机差别好大。实际上，她俩还是很相似的，不妨假设$$z\equiv w\cdot x+b$$是一个非常大的正数，则可以得到$$e^{-z}\approx 0 \Rightarrow \sigma (z)\approx 1$$。反之，假设$$z\equiv w\cdot x+b$$是一个非常小的负数，则可以得到$$e^{-z}\to +\infty, \sigma (z)\approx 0$$。当然啦，如果$$z$$的取值大小适中，此时sigmoid神经元和感知机的差别就体现出来了。
+
+
+
