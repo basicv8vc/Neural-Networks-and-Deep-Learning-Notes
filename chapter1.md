@@ -96,5 +96,9 @@
 
 第一眼看上去，感觉sigmoid神经元和感知机差别好大。实际上，她俩还是很相似的，不妨假设$$z\equiv w\cdot x+b$$是一个非常大的正数，则可以得到$$e^{-z}\approx 0 \Rightarrow \sigma (z)\approx 1$$。反之，假设$$z\equiv w\cdot x+b$$是一个非常小的负数，则可以得到$$e^{-z}\to +\infty, \sigma (z)\approx 0$$。当然啦，如果$$z$$的取值大小适中，此时sigmoid神经元和感知机的差别就体现出来了。
 
+对于sigmoid函数，我们都需要掌握她哪些性质呢？实际上，你只需要知道她的形状就可以了。
 
+![](https://ooo.0o0.ooo/2015/11/09/56416b2cbd24d.png)
+
+sigmoid函数其实是下图阶梯函数的平滑版本。
 
