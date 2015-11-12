@@ -228,7 +228,7 @@ $$\frac{\partial f}{\partial l}\rvert _{(x_{0},y_{0})} = f_{x}(x_{0},y_{0})cos\a
 
 ![](https://ooo.0o0.ooo/2015/11/10/5641e403b07d9.png)
 
-$$C=\frac{1}{n} \sum_{x}C_{x}, 其中C_{x}=\frac{||y(x)-a||^{2}}{2}$$
+上式可以写成$$C=\frac{1}{n} \sum_{x}C_{x}, 其中C_{x}=\frac{||y(x)-a||^{2}}{2}$$，
 
 
 
