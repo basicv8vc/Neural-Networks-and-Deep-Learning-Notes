@@ -232,7 +232,7 @@ $$\frac{\partial f}{\partial l}\rvert _{(x_{0},y_{0})} = f_{x}(x_{0},y_{0})cos\a
 
 随机梯度下降算法(stochastic gradient descent)应运而生，SGD在每一次计算$$\nabla C$$时不使用整个训练集而是随机选取部分训练样本计算它们的$$\nabla C_{x}$$，用部分训练集的梯度平均值近似看作损失函数的梯度。这就大大减少了计算量。
 
-
+每一次选取的随机训练样本集合又称作mini-batch，
 
 
 
