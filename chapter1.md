@@ -230,7 +230,7 @@ $$\frac{\partial f}{\partial l}\rvert _{(x_{0},y_{0})} = f_{x}(x_{0},y_{0})cos\a
 
 上式可以写成$$C=\frac{1}{n} \sum_{x}C_{x}, 其中C_{x}=\frac{||y(x)-a||^{2}}{2}$$，损失函数的梯度$$\nabla C=\frac{1}{n}\sum_{x}\nabla C_{x}$$, 假设权重和偏置变量个数为$$M$$, 在每一次对损失函数求梯度过程中，实际要对每一个训练样本求梯度，而求梯度过程就是计算偏导数的过程，因此在每一点求梯度都要计算M*n次偏导数！这无疑是一个非常耗时的过程。
 
-随机梯度下降算法(stochastic gradient descent)应运而生，SGD在每一次计算$$\nabla C$$时不使用整个训练集而是随机选取部分训练样本计算它们的$$\nabla C_{x}$$作为$$\nabla C$$的估算。
+随机梯度下降算法(stochastic gradient descent)应运而生，SGD在每一次计算$$\nabla C$$时不使用整个训练集而是随机选取部分训练样本计算它们的$$\nabla C_{x}$$，用部分训练集的梯度平均值近似看作损失函数的梯度。
 
 
 
