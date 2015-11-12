@@ -214,7 +214,7 @@ $$\nabla = (\frac{\partial}{\partial x} + \frac{\partial}{\partial y})^{T} $$被
 
 如果二元函数$$f(x,y)$$在点$$P_{0}(x_{0},y_{0})$$可微分，$$\mathbf{e_{l}}=(cos\alpha,cos\beta)$$是与方向$$l$$同向的单位向量，则
 
-$$\frac{\partial f}{\partial l}\rvert _{(x_{0},y_{0})} = f_{x}(x_{0},y_{0})cos\alpha + f_{y}(x_{0},y_{0}cos\beta)=\mathbf{grad}f(x_{0},y_{0})\cdot \mathbf{e_{l}} = |\mathbf{grad}f(x_{0},y_{0})|cos\theta$$
+$$\frac{\partial f}{\partial l}\rvert _{(x_{0},y_{0})} = f_{x}(x_{0},y_{0})cos\alpha + f_{y}(x_{0},y_{0})cos\beta=\mathbf{grad}f(x_{0},y_{0})\cdot \mathbf{e_{l}} = |\mathbf{grad}f(x_{0},y_{0})|cos\theta$$
 
 
 
