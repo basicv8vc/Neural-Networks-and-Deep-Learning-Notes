@@ -240,7 +240,9 @@ $$\frac{\partial f}{\partial l}\rvert _{(x_{0},y_{0})} = f_{x}(x_{0},y_{0})cos\a
 
 ![](https://ooo.0o0.ooo/2015/11/11/56440c02ea32b.jpg)
 
-注：mini-batch在每次更新$$w$$和$$b$$后要再次随机生成。
+注：通常做法是，先将训练集随机排序，前m个样本[1,m]作为mini-batch 1，[m+1,2m]作为第二个mini-batch，以此类推，直到训练集中每个样本都参与过计算，这个过程称作一个eopch。在下一个epoch之前再次将训练集随机排序，神经网络训练一般都要有多个epoch。
+
+
 
 
 
