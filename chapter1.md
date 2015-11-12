@@ -216,6 +216,8 @@ $$\nabla = (\frac{\partial}{\partial x} + \frac{\partial}{\partial y})^{T} $$被
 
 $$\frac{\partial f}{\partial l}\rvert _{(x_{0},y_{0})} = f_{x}(x_{0},y_{0})cos\alpha + f_{y}(x_{0},y_{0})cos\beta=\mathbf{grad}f(x_{0},y_{0})\cdot \mathbf{e_{l}} = |\mathbf{grad}f(x_{0},y_{0})|cos\theta$$
 
+因此，当$$\theta =0$$，即方向$$\mathbf{e_{l}}$$与梯度$$\mathbf{grad}f(x_{0},y_{0})$$方向相同，函数$$f(x,y)$$增加最快。
+
 
 
 
