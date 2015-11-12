@@ -206,9 +206,9 @@ $$h_{1}$$只判断图像右上角区域是否是半条弧线，然后给出一�
 
 ![](https://ooo.0o0.ooo/2015/11/10/5641ec00a6aff.png)
 
-假设我们处于$$(v_{1},v_{2})$$点，我们想要走到对应函数最小值的目标点，
+//假设我们处于$$(v_{1},v_{2})$$点，我们想要走到对应函数最小值的目标点，
 
-
+再次回顾高数学到的知识:梯度。
 
 $$\nabla = (\frac{\partial}{\partial x} + \frac{\partial}{\partial y})^{T} $$被称为向量微分算子或Nabla算子，$$\nabla f= (\frac{\partial f}{\partial x} + \frac{\partial f}{\partial y})^{T}$$。
 
