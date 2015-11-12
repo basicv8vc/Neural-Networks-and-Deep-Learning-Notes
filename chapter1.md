@@ -236,8 +236,9 @@ $$\frac{\partial f}{\partial l}\rvert _{(x_{0},y_{0})} = f_{x}(x_{0},y_{0})cos\a
 
 ![](https://ooo.0o0.ooo/2015/11/11/564404738b2a3.jpg)
 
+每一次对$$w$$和$$b$$更新时按照：
 
-
+![](https://ooo.0o0.ooo/2015/11/11/56440c02ea32b.jpg)
 
 
 
