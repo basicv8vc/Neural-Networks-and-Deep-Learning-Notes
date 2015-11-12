@@ -210,7 +210,7 @@ $$h_{1}$$只判断图像右上角区域是否是半条弧线，然后给出一�
 
 
 
-
+$$\nabla = (\frac{\partial}{\partial x} + \frac{\partial}{\partial y})^{T} $$被称为向量微分算子或Nabla算子，$$\nabla f= (\frac{\partial f}{\partial x} + \frac{\partial f}{\partial y})^{T}$$
 
 
 
