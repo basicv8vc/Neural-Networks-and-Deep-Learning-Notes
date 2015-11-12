@@ -240,6 +240,8 @@ $$\frac{\partial f}{\partial l}\rvert _{(x_{0},y_{0})} = f_{x}(x_{0},y_{0})cos\a
 
 ![](https://ooo.0o0.ooo/2015/11/11/56440c02ea32b.jpg)
 
+注：mini-batch在每次更新$$w$$和$$b$$后要再次随机生成。
+
 
 
 
