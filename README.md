@@ -3,6 +3,7 @@
 
 最近在学习deep learning，这是我看 "Neural Networks and Deep Learning"的笔记，既然是笔记，在阅读的时候就要注意一下：原书中有些概念讲解的过于细致，笔记里可能一笔带过甚至都没提到；笔记不同于翻译，翻译是严格遵守原文，笔记是经过我思考过后自己留下的东西；里面也会含有我自己的一些浅显理解，作为初学者，难免有错误，希望大家阅读时一定要自己再独立思考一遍，疑惑的地方问人orGoogle，欢迎指出各种错误，我的邮箱:basicvbvc(at)gmail.com
 
+为了更好的阅读体验，请移步 https://ljalphabeta.gitbooks.io/neural-networks-and-deep-learning-notes/content/
 
 英文原版地址 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
